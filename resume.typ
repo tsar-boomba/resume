@@ -17,23 +17,21 @@
   location: "Atlanta, GA",
   date: "Graduating May 2026",
   [Concentrating in _Embedded Devices_ & _Systems and Architecture_],
-  [Coursework: Computer Organization, Data Structures & Algorithms, Object-Oriented
-    Programming],
 )
 
 #resume_heading[Experience]
 #exp_item(
-  role: "Software Engineer Intern: Product",
   name: "MongoDB",
+  role: "Software Engineer Intern: Product",
   location: "New York City, NY",
   date: "Jun. 2024 - Aug. 2024",
-  [TBD],
+  [Worked with the Billing and Payments Team under Atlas Core Engineering],
   [TBD],
   [TBD],
 )
 #exp_item(
-  role: "Software Engineer Intern",
   name: "Secure Process Intelligence",
+  role: "Software Engineer Intern",
   location: "Fort Mill, SC / Remote",
   date: "Jun. 2023 - Present",
   [Created two internal tools with _Rust_, _React.js_, and _TypeScript_ which
@@ -41,23 +39,22 @@
     workflow],
   [Programmed a microcontroller, using _C_ and _Rust_, which uses Modbus to extract
     data from a monitoring device],
+  [Interfaced with a 4G LTE modem to send collected data to a dashbaord for customer viewing]
 )
 #exp_item(
-  role: "Freelance Software Developer",
   name: "Self-Employed",
+  role: "Freelance Software Developer",
   location: "Remote",
   date: "Dec. 2021 - Jul. 2022",
-  [ Architected and implemented full-stack web applications using _Node.js_, _React.js_, _Docker_,
+  [Architected and implemented full-stack web applications using _Node.js_, _React.js_, _Docker_,
     and _AWS_ ],
-  [Created a web application for a trucking company using _React.js_, _Next.js_, _Nest.js_,
-    and _Nginx_. It was used to store information for thousands of loads and was
-    used to make over _\$1 million_ in revenue],
+  [Created a web application for a trucking company using _React.js_, _Next.js_, _Nest.js_, _Nginx_, and _PostgreSQL_. Stored information for thousands of complex loads and is critical to their operations],
 )
 
 #resume_heading[Projects]
 #project_item(
   name: "Genius Dashboard",
-  skills: "React, TypeScript Rust, Pub/Sub",
+  skills: "React, TypeScript, Rust, Pub/Sub",
   [Solved flaws in an existing robot dashboard application while improving user
     experience and performance],
   [Improved memory usage by _50%_ and CPU usage by _70%_ over the old dashboard],
@@ -82,16 +79,19 @@
   name: "Oxide",
   skills: "Linux, Docker, Rust, Embedded",
   [Developed a custom frontend for a Nintendo GameBoy emulator],
-  [Optimized sleep mode & fast start-up],
-  [Streamlined _UX_ for ease of use],
+  [Streamlined _UX_ for ease of use with optimized sleep mode & fast start-up],
   [Interacts with low-level _Linux_ APIs such as ioctl and `/dev`],
 )
 
 #resume_heading[Additional Experience and Awards]
-// Rusing this template cause im lazy
+// Re-using this template cause im lazy
 #skill_item(
   category: "Provost Scholarship",
-  skills: "A highly prestigious merit scholarship awarded to 60 out-of-state students, from a pool of thousands.",
+  skills: "A highly prestigious merit scholarship awarded to 60 out-of-state students, from a pool of thousands",
+)
+#skill_item(
+  category: "Club Founder",
+  skills: "Founded Students Organizing for the Adoption of Rust at Georgia Tech"
 )
 #skill_item(
   category: "Hacklytics 2024",
@@ -105,9 +105,9 @@
 )
 #skill_item(
   category: "Frameworks",
-  skills: "React, Node.js, Next.js, JUnit, Material-UI",
+  skills: "React, Node.js, Next.js, Nest.js, PostgreSQL, MongoDB, JUnit, Material-UI, ESP-IDF",
 )
 #skill_item(
   category: "Developer Tools",
-  skills: "Linux, Git, Docker, Amazon Web Services, Google Cloud Platform, VS Code, IntelliJ",
+  skills: "Linux, Git, GitHub (Actions), Docker, AWS, Google Cloud Platform, VS Code, IntelliJ",
 )

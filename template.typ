@@ -73,8 +73,8 @@
   set block(above: 0.5em, below: 0.75em)
   pad(left: 0.5em, right: 0.5em, box[
     #grid(columns: (3fr, 1fr), align(left)[
-      *#role* \
-      _#name _
+      *#name* \
+      _#role _
     ], align(right)[
       #date \
       _#location _
