@@ -25,9 +25,7 @@
   role: "Software Engineer Intern: Product",
   location: "New York City, NY",
   date: "Jun. 2024 - Aug. 2024",
-  [Worked with the Billing and Payments Team under Atlas Core Engineering],
-  [TBD],
-  [TBD],
+  [Will be working with the Billing and Payments Team under Atlas Core Engineering],
 )
 #exp_item(
   name: "Secure Process Intelligence",
@@ -109,5 +107,5 @@
 )
 #skill_item(
   category: "Developer Tools",
-  skills: "Linux, Git, GitHub (Actions), Docker, AWS, Google Cloud Platform, VS Code, IntelliJ",
+  skills: "Linux, Git, GitHub, Docker, AWS, Google Cloud Platform, VS Code, IntelliJ",
 )

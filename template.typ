@@ -1,8 +1,6 @@
 #let resume(body) = {
   set list(indent: 1em)
   show list: set text(size: 0.92em)
-  show link: underline
-  show link: set underline(offset: 3pt)
 
   set page(paper: "us-letter", margin: (x: 0.5in, y: 0.5in))
 
