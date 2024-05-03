@@ -107,5 +107,5 @@
 )
 #skill_item(
   category: "Developer Tools",
-  skills: "Linux, Git, GitHub, Docker, AWS, Google Cloud Platform, VS Code, IntelliJ",
+  skills: "Linux, Git, GitHub, Docker, AWS, Google Cloud Platform, VS Code, IntelliJ, Agile",
 )
