@@ -99,7 +99,7 @@
 #resume_heading[Technical Skills]
 #skill_item(
   category: "Languages",
-  skills: "TypeScript, HTML, CSS, Java, C, Rust, SQL, Python",
+  skills: "TypeScript, HTML, CSS, Java, C, Rust, SQL, Python, Bash",
 )
 #skill_item(
   category: "Frameworks",
