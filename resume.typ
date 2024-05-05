@@ -37,7 +37,7 @@
     workflow],
   [Programmed a microcontroller, using _C_ and _Rust_, which uses Modbus to extract
     data from a monitoring device],
-  [Interfaced with a 4G LTE modem to send collected data to a dashbaord for customer viewing]
+  [Interfaced with a 4G LTE modem over UART to send collected data to a dashbaord for customer viewing]
 )
 #exp_item(
   name: "Self-Employed",
@@ -103,7 +103,7 @@
 )
 #skill_item(
   category: "Frameworks",
-  skills: "React, Node.js, Next.js, Nest.js, PostgreSQL, MongoDB, JUnit, Material-UI, ESP-IDF",
+  skills: "React, Node.js, Next.js, Nest.js, PostgreSQL, MongoDB, JUnit, Material-UI, ESP-IDF, FreeRTOS",
 )
 #skill_item(
   category: "Developer Tools",
