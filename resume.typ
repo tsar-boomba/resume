@@ -13,7 +13,7 @@
 #resume_heading[Education]
 #edu_item(
   name: "Georgia Institute of Technology",
-  degree: "Bachelor of Science in Computer Science - GPA 3.6/4.0",
+  degree: "Bachelor of Science in Computer Science - GPA 3.82/4.0",
   location: "Atlanta, GA",
   date: "Graduating May 2026",
   [Concentrating in _Embedded Devices_ & _Systems and Architecture_],
@@ -61,8 +61,8 @@
 #project_item(
   name: "Robotics Scouting",
   skills: "React, TypeScript, Next.js, MongoDB",
-  [Used to collect data from matches at robotics competitions. Implements
-    authentication and data analysis tools],
+  [Created a webapp to collect data from matches at robotics competitions. Has
+    auth and data analysis tools],
   [Enabled our team to make informed, data-driven decisions during competitions],
 )
 #project_item(
