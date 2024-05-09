@@ -17,6 +17,7 @@
   location: "Atlanta, GA",
   date: "Graduating May 2026",
   [Concentrating in _Embedded Devices_ & _Systems and Architecture_],
+  [Relevant Courses: Data Structures & Algorithms, Computer Organization, Computer Systems & Networking]
 )
 
 #resume_heading[Experience]
