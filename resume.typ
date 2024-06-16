@@ -26,13 +26,13 @@
   role: "Software Engineer Intern: Product",
   location: "New York City, NY",
   date: "Jun. 2024 - Aug. 2024",
-  [Will be working with the Billing and Payments Team under Atlas Core Engineering],
+  [Working with the Billing and Payments Team to improve internal auditors that ensure the consistency of payment data],
 )
 #exp_item(
   name: "Secure Process Intelligence",
   role: "Software Engineer Intern",
   location: "Fort Mill, SC / Remote",
-  date: "Jun. 2023 - Present",
+  date: "Jun. 2023 - Jun. 2024",
   [Created two internal tools with _Rust_, _React.js_, and _TypeScript_ which
     increased productivity by reverse engineering proprietary solutions for our
     workflow],
