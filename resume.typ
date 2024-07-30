@@ -23,15 +23,17 @@
 #resume_heading[Experience]
 #exp_item(
   name: "MongoDB",
-  role: "Software Engineer Intern: Product",
+  role: "Software Engineer Intern",
   location: "New York City, NY",
   date: "Jun. 2024 - Aug. 2024",
-  [Working with the Billing and Payments Team to improve internal auditors that ensure the consistency of payment data],
+  [Worked with the Cloud Payments Team to ensure the consistency of payment data by automating Jira issue creation for job failures to improve engineer response times using _Java_],
+  [Developed API endpoint to run specific jobs, expediting post-fix testing and automating Jira issue resolution],
+  [Wrote Unit Tests, Integration Tests, and Third-Party Tests that interface with Jira with _JUnit_],
 )
 #exp_item(
   name: "Secure Process Intelligence",
   role: "Software Engineer Intern",
-  location: "Fort Mill, SC / Remote",
+  location: "Fort Mill, SC",
   date: "Jun. 2023 - Jun. 2024",
   [Created two internal tools with _Rust_, _React.js_, and _TypeScript_ which
     increased productivity by reverse engineering proprietary solutions for our
@@ -71,8 +73,7 @@
   skills: "Embedded, Rust",
   [Created an embedded project that shows what I'm listening to on Spotify through
     an _AWS Lambda_ function],
-  [Uses the SPI peripheral to communicate with the screen],
-  [Uses FreeRTOS's tasks/threads to achieve non-blocking updates to UI],
+  [Uses the SPI peripheral to communicate with and FreeRTOS's tasks for non-blocking updates to the screen],
 )
 #project_item(
   name: "Oxide",
@@ -86,7 +87,7 @@
 // Re-using this template cause im lazy
 #skill_item(
   category: "Provost Scholarship",
-  skills: "A highly prestigious merit scholarship awarded to 60 out-of-state students, from a pool of thousands",
+  skills: "Prestigious merit scholarship awarded to 60 out-of-state students, from a pool of thousands",
 )
 #skill_item(
   category: "Club Founder",
@@ -108,5 +109,5 @@
 )
 #skill_item(
   category: "Developer Tools",
-  skills: "Linux, Git, GitHub, Docker, AWS, Google Cloud Platform, VS Code, IntelliJ, Agile",
+  skills: "Linux, Git, GitHub, Docker, AWS, Google Cloud Platform, VS Code, IntelliJ, Agile, Jira",
 )
