@@ -28,7 +28,7 @@
   date: "Jun. 2024 - Aug. 2024",
   [Worked with the Cloud Payments Team to ensure the consistency of payment data by automating Jira issue creation for job failures to improve engineer response times using _Java_],
   [Developed API endpoint to run specific jobs, expediting post-fix testing and automating Jira issue resolution],
-  [Wrote Unit Tests, Integration Tests, and Third-Party Tests that interface with Jira with _JUnit_],
+  [Wrote unit tests, integration tests, and third-party tests that interface with Jira using _JUnit_],
 )
 #exp_item(
   name: "Secure Process Intelligence",
