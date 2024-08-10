@@ -26,7 +26,7 @@
   role: "Software Engineer Intern",
   location: "New York City, NY",
   date: "Jun. 2024 - Aug. 2024",
-  [Worked with the Cloud Payments Team to ensure the consistency of payment data by automating Jira issue creation for job failures to improve engineer response times using _Java_],
+  [Worked with the Cloud Payments Team to ensure the consistency of payment data by designing and implementing automatic Jira issue creation for job failures using _Java_],
   [Developed API endpoint to run specific jobs, expediting post-fix testing and automating Jira issue resolution],
   [Wrote unit tests, integration tests, and third-party tests that interface with Jira using _JUnit_],
 )
