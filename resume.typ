@@ -90,8 +90,8 @@
   skills: "Prestigious merit scholarship awarded to 60 out-of-state students, from a pool of thousands",
 )
 #skill_item(
-  category: "Club Founder",
-  skills: "Founded Students Organizing for the Adoption of Rust at Georgia Tech"
+  category: "VIP Member",
+  skills: "Member of the Intelligent Digital Communications VIP on the Systems and Operations subteam"
 )
 #skill_item(
   category: "Hacklytics 2024",
