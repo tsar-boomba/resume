@@ -31,25 +31,25 @@
   [Wrote unit tests, integration tests, and third-party tests that interface with Jira using _JUnit_],
 )
 #exp_item(
+  name: "Hack4Impact GT: Bits Of Good",
+  role: "Developer",
+  location: "Atlanta, GA",
+  date: "Aug. 2024 - Present",
+  [Working on an _Agile_ team to create an application for Atlanta 501(c)(3) Motherhood Beyond Bars],
+  [Translating _Figma_ designs from an experienced designer into fully functional _React_ components],
+  [Creating backend functionality using _Node.js_, and employed Server-Side Rendering for optimal user experience],
+)
+#exp_item(
   name: "Secure Process Intelligence",
   role: "Software Engineer Intern",
-  location: "Fort Mill, SC",
-  date: "Jun. 2023 - Jun. 2024",
+  location: "Remote",
+  date: "Jun. 2023 - Present",
   [Created two internal tools with _Rust_, _React.js_, and _TypeScript_ which
     increased productivity by reverse engineering proprietary solutions for our
     workflow],
   [Programmed a microcontroller, using _C_ and _Rust_, which uses Modbus to extract
     data from a monitoring device],
-  [Interfaced with a 4G LTE modem over UART to send collected data to a dashbaord for customer viewing]
-)
-#exp_item(
-  name: "Self-Employed",
-  role: "Freelance Software Developer",
-  location: "Remote",
-  date: "Dec. 2021 - Jul. 2022",
-  [Architected and implemented full-stack web applications using _Node.js_, _React.js_, _Docker_,
-    and _AWS_ ],
-  [Created a web application for a trucking company using _React.js_, _Next.js_, _Nest.js_, _Nginx_, and _PostgreSQL_. Stored information for thousands of complex loads and is critical to their operations],
+  [Interfaced with a 4G LTE modem over UART to send collected data to a dashboard for customer viewing]
 )
 
 #resume_heading[Projects]

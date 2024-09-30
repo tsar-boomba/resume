@@ -15,11 +15,11 @@
 }
 
 #let header(
-  name: "Jake Ryan",
+  name: "Your Name",
   phone: "123-456-7890",
-  email: "jake@su.edu",
-  linkedin: "linkedin.com/in/jake",
-  site: "github.com/jake",
+  email: "you@su.edu",
+  linkedin: "linkedin.com/in/you",
+  site: "github.com/you",
 ) = {
   align(center, block[
     #name_header(name) \
