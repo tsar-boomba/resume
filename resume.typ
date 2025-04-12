@@ -13,14 +13,23 @@
 #resume_heading[Education]
 #edu_item(
   name: "Georgia Institute of Technology",
-  degree: "Bachelor of Science in Computer Science - GPA 3.82/4.0",
+  degree: "Bachelor of Science in Computer Science - GPA 3.81/4.0",
   location: "Atlanta, GA",
-  date: "Graduating May 2026",
-  [Concentrating in _Embedded Devices_ & _Systems and Architecture_],
+  date: "Graduating December 2026",
+  [Concentrating in Embedded Devices & Systems and Architecture],
   [Relevant Courses: Data Structures & Algorithms, Computer Organization, Computer Systems & Networking]
 )
 
 #resume_heading[Experience]
+#exp_item(
+  name: "Verkada",
+  role: "Software Engineer Intern",
+  location: "San Mateo, CA",
+  date: "Jan. 2025 - Apr. 2025",
+  [Developed features using _TypeScript_ and _Go_ throughout the entire tech stack, from frontend to firmware],
+  [Used _React_ to implement core features on the frontend of an in-development product],
+  [Improved developer experience by implementing caching, improving build and start times by 40%]
+)
 #exp_item(
   name: "MongoDB",
   role: "Software Engineer Intern",
@@ -41,12 +50,10 @@
 )
 #exp_item(
   name: "Secure Process Intelligence",
-  role: "Software Engineer Intern",
+  role: "Embedded Software Engineer",
   location: "Remote",
   date: "Jun. 2023 - Present",
-  [Created two internal tools with _Rust_, _React.js_, and _TypeScript_ which
-    increased productivity by reverse engineering proprietary solutions for our
-    workflow],
+  [Created two internal tools with _Rust_, _React.js_, and _TypeScript_ which reverse engineered proprietary solutions],
   [Programmed a microcontroller, using _C_ and _Rust_, which uses Modbus to extract
     data from a monitoring device],
   [Interfaced with a 4G LTE modem over UART to send collected data to a dashboard for customer viewing]
@@ -54,19 +61,10 @@
 
 #resume_heading[Projects]
 #project_item(
-  name: "Genius Dashboard",
-  skills: "React, TypeScript, Rust, Pub/Sub",
-  [Solved flaws in an existing robot dashboard application while improving user
-    experience and performance],
-  [Improved memory usage by _50%_ and CPU usage by _70%_ over the old dashboard],
-  [Designed a free-form drag-and-drop interface for creating custom user dashboards],
-)
-#project_item(
-  name: "Robotics Scouting",
-  skills: "React, TypeScript, Next.js, MongoDB",
-  [Created a webapp to collect data from matches at robotics competitions. Has
-    auth and data analysis tools],
-  [Enabled our team to make informed, data-driven decisions during competitions],
+  name: "Motorx",
+  skills: "Networking, Rust",
+  [An HTTP reverse-proxy that supports simple JSON configuration, TLS termination, and http/2 and http/3],
+  [Takes advantage of Rust's features for fearless process-level concurrency resulting in minimal CPU usage],
 )
 #project_item(
   name: "ESP Spotify Display",
@@ -79,7 +77,6 @@
   name: "Oxide",
   skills: "Linux, Docker, Rust, Embedded",
   [Developed a custom frontend for a Nintendo GameBoy emulator],
-  [Streamlined _UX_ for ease of use with optimized sleep mode & fast start-up],
   [Interacts with low-level _Linux_ APIs such as ioctl and `/dev`],
 )
 
@@ -101,7 +98,7 @@
 #resume_heading[Technical Skills]
 #skill_item(
   category: "Languages",
-  skills: "TypeScript, HTML, CSS, Java, C, Rust, SQL, Python, Bash",
+  skills: "TypeScript, HTML, CSS, Go, Java, C, Rust, SQL, Python, Bash",
 )
 #skill_item(
   category: "Frameworks",
