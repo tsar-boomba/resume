@@ -15,7 +15,7 @@
   name: "Georgia Institute of Technology",
   degree: "Bachelor of Science in Computer Science - GPA 3.81/4.0",
   location: "Atlanta, GA",
-  date: "Graduating December 2026",
+  date: "Graduating May 2027",
   [Concentrating in Embedded Devices & Systems and Architecture],
   [Relevant Courses: Data Structures & Algorithms, Computer Organization, Computer Systems & Networking]
 )
