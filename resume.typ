@@ -6,7 +6,6 @@
   name: "Isaiah Gamble",
   phone: "704-804-1261",
   email: "itg.2048@gmail.com",
-  linkedin: "linkedin.com/in/igamble",
   site: "igamble.dev",
 )
 

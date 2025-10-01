@@ -18,14 +18,12 @@
   name: "Your Name",
   phone: "123-456-7890",
   email: "you@su.edu",
-  linkedin: "linkedin.com/in/you",
   site: "github.com/you",
 ) = {
   align(center, block[
     #name_header(name) \
     #phone |
     #link("mailto:" + email)[#email] |
-    #link("https://" + linkedin)[#linkedin] |
     #link("https://" + site)[#site]
   ])
   v(5pt)
