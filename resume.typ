@@ -108,7 +108,7 @@
 )
 #skill_item(
   category: "Frameworks",
-  skills: "React, Node.js, Next.js, Nest.js, PostgreSQL, MongoDB, JUnit, Material-UI, ESP-IDF, FreeRTOS",
+  skills: "React, Node.js, Next.js, PostgreSQL, MongoDB, JUnit, Material-UI, ESP-IDF, FreeRTOS, Yocto",
 )
 #skill_item(
   category: "Developer Tools",
